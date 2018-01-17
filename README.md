@@ -9,4 +9,4 @@ To run:
 - et voila!
 
 
-Demo: 
+Demo: https://kamilasieczkowska.github.io/react-typewriter/
